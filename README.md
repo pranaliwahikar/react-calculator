@@ -1,2 +1,2 @@
 # react-calculator
-react calculator using usestate hook
+react calculator using usestate hooks
